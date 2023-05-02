@@ -1,0 +1,65 @@
+.cowin-dashboard-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  min-height: 100vh;
+  background-size: cover;
+  width: 100%;
+}
+.logo-dashboard {
+  width: 70%;
+  background-color: #161625;
+  padding: 15px 60px 15px 60px;
+  min-height: 100vh;
+}
+.logo-container {
+  display: flex;
+  align-items: center;
+}
+.co-WIN-title {
+  font-family: 'Roboto';
+  font-size: 18px;
+  color: #2cc6c6;
+  font-weight: 600;
+}
+.co-WIN-heading {
+  font-family: 'Roboto';
+  font-size: 22px;
+  color: #cbd5e1;
+  font-weight: 500;
+}
+.coWin-logo {
+  width: 38px;
+  height: 38px;
+  margin-right: 8px;
+}
+.dashBoard-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.failure-img {
+  width: 450px;
+  height: 350px;
+}
+.failure-text {
+  font-family: 'Bree serif';
+  font-size: 25px;
+  color: #ffffff;
+  text-align: center;
+}
+.failure-container {
+  margin-top: 20px;
+}
+.dashboard {
+  background-color: #1c1c2b;
+  padding: 30px 20px 20px 20px;
+  width: 100%;
+  margin-bottom: 10px;
+}
+.dashboard-title {
+  font-family: 'Roboto';
+  font-size: 20px;
+  color: #cbd5e1;
+}
